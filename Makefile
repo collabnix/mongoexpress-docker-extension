@@ -1,5 +1,5 @@
 IMAGE?=ajeetraina/mongo-express-docker-extension
-TAG?=latest
+TAG?=1.0
 
 BUILDER=buildx-multi-arch
 
