@@ -1,4 +1,4 @@
-IMAGE?=ajeetraina/mongo-express-docker-extension
+IMAGE?=ajeetraina/mongodb-express-docker-extension
 TAG?=1.0
 
 BUILDER=buildx-multi-arch
