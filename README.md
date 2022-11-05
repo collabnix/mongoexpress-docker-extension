@@ -3,6 +3,11 @@
 Mongo Express is a web-based MongoDB admin interface written with Node.js, Express and Bootstrap3.
 With Mongo Express Docker Extension, now you can setup Mongo Express along with MongoDB with few clicks.
 
+> This is Work-in-progress
+- [x] Building Compose File
+- [x] Constructing UI
+- [ ] Final Testing
+
 <img width="1372" alt="image" src="https://user-images.githubusercontent.com/313480/200106477-172ed89e-f1b5-402a-b45d-56dc9c4d724d.png">
 
 
